@@ -1,8 +1,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/GanttControlDemoApp/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GanttControlDemoApp/MainWindow.xaml))
-* [ProjectTaskViewModel.cs](./CS/GanttControlDemoApp/ProjectTaskViewModel.cs) (VB: [ProjectTaskViewModel.vb](./VB/GanttControlDemoApp/ProjectTaskViewModel.vb))
+* [MainWindow.xaml](./CS/GanttControlDemoApp/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GanttControlDemoAppVB/MainWindow.xaml))
+* [ProjectTaskViewModel.cs](./CS/GanttControlDemoApp/ProjectTaskViewModel.cs) (VB: [ProjectTaskViewModel.vb](./VB/GanttControlDemoAppVB/ProjectTaskViewModel.vb))
 <!-- default file list end -->
 # How to retrieve Gantt tasks' predecessor links using the PredecessorLinksSelector
 
